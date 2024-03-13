@@ -1,0 +1,24 @@
+.order-tiles {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Three tiles in a row */
+  grid-gap: 20px; /* Adjust gap between tiles as needed */
+}
+
+.order-tile {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 20px;
+  margin-top: 20px;
+  background-color: #f9f9f9;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.order-tile:hover {
+  border-color: #007bff; /* Change border color on hover */
+}
+
+.orders-heading{
+  padding: 20px;
+  text-align: center;
+  color: #007bff;
+}
