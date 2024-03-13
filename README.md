@@ -20,11 +20,10 @@ The ERP System Frontend is a web application designed to provide users with a co
 
 3. Navigate to the project directory - "cd Simplified ERP System".
 
-4. npm install react-router-dom
+4. Install the react router dom using - "npm install react-router-dom"
 
-6. npm start
+6. Finally - "npm start", This will start the React app on Local Server
 
-This will start the development server, and you can view your application in the browser at http://localhost:3000.
 
 Open your web browser and navigate to `http://localhost:3000` to access the application.
 
