@@ -38,9 +38,6 @@ Open your web browser and navigate to `http://localhost:3000` to access the appl
 - React.js
 - React Router
 - React Bootstrap
-- Chart.js
-- Axios
-- ...
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request to suggest changes or improvements.
