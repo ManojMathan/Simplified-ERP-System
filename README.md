@@ -14,15 +14,15 @@ The ERP System Frontend is a web application designed to provide users with a co
 
 ## Installation
 
-1. Clone this repository to your local machine.
+1. Clone this repository to your local machine by downloading as ZIP file and Extract it.
 
-2. Navigate to the project directory.
+2. Open Comand Prompt.
 
-3. Install dependencies.
+3. Navigate to the project directory - "cd Simplified ERP System".
 
 4. npm install react-router-dom
 
-5. npm start
+6. npm start
 
 This will start the development server, and you can view your application in the browser at http://localhost:3000.
 
