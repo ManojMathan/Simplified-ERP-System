@@ -42,7 +42,7 @@ Open your web browser and navigate to `http://localhost:3000` to access the appl
 Contributions are welcome! Please open an issue or submit a pull request to suggest changes or improvements.
 
 
-<img width="876" alt="ERP APP SS2" src="https://github.com/ManojMathan/Simplified-ERP-System/assets/94121851/c4d049bd-9e85-4b0c-93e9-fbfab5785460">
 <img width="647" alt="ERP APP SS" src="https://github.com/ManojMathan/Simplified-ERP-System/assets/94121851/ee170a55-5145-4f27-9f5c-9532f1a9428c">
+<img width="876" alt="ERP APP SS2" src="https://github.com/ManojMathan/Simplified-ERP-System/assets/94121851/c4d049bd-9e85-4b0c-93e9-fbfab5785460">
 <img width="882" alt="ERP APP SS4" src="https://github.com/ManojMathan/Simplified-ERP-System/assets/94121851/24cc1e42-ae41-4d97-9da4-f078bb1f06e7">
 <img width="489" alt="ERP APP SS3" src="https://github.com/ManojMathan/Simplified-ERP-System/assets/94121851/0eabd01e-f6fa-4554-a56b-c1676e73cf53">
